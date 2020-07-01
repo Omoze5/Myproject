@@ -1,0 +1,11 @@
+@media only screen and (max-width:767px){
+	input[type=text],input[type=number],
+input[type=email]{
+	width: 50%;
+	height: 10%;
+}
+
+h1{
+	font-size: 200%;
+}
+}
